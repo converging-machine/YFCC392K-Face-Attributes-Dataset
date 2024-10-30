@@ -7,8 +7,8 @@ A large-scale weakly-labeled face attribute dataset derived from YFCC100M for se
 The YFCC392K dataset consists of 392,000 face images with the following characteristics:
 - Image resolution: 128x128 pixels
 - 40 facial attributes
-- Derived from YFCC100M dataset[7]
-- Curated subset optimized for face recognition tasks[1]
+- Derived from YFCC100M dataset
+- Curated subset optimized for face recognition tasks
 
 ## Key Features
 
@@ -22,7 +22,6 @@ The YFCC392K dataset consists of 392,000 face images with the following characte
 This dataset is available for research purposes and includes:
 - Image IDs
 - Image links
-- Bounding box coordinates[8]
 
 ## Dataset Creation Process
 
